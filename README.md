@@ -1,4 +1,4 @@
-test
+Test Project
 ====
 
 Test repo
